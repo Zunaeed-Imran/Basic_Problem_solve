@@ -27,9 +27,8 @@ switch(alpha){
     case alpha = "x":
     case alpha = "y":
     case alpha = "z":
-            
     document.write(alpha + " is Alphabet.");
     break;
     default:
-    document.write(alpha + " is Not an Alphabet.");    
+    document.write("Not an Alphabet.");    
 }
