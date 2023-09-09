@@ -8,4 +8,5 @@
 - we can't use const in prompt we have to use let
 - becouse it's changeable 
 - practice branch practice alphabet with if else or condation.
-3. 
+3. ASCI value see. using switch statement.
+4. Check The input is Uppercase or lowercase or Special Character. 
