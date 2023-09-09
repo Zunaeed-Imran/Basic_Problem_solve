@@ -1,7 +1,12 @@
-let num = prompt("Entera any Number");
+let num = prompt("Entera any Alphabet");
 
-const submit = num;
+switch (num){
+    case num == "a":
+        document.write("It is Vowel");
+        break;
+    case num === "b":
+        document.write("Not vowel");
+    default:
+        document.write("Wrong Entry");    
+    }    
 
-if(submit){
-    document.write(num);
-}
