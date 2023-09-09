@@ -29,7 +29,7 @@ switch (num){
     case num = "x":
     case num = "y":
     case num = "z":
-    document.write("Not vowel");
+    document.write("It is Consonent");
     break;
 
     default:
