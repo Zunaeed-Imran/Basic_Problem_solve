@@ -6,8 +6,8 @@ switch (num){
     case num = "i":
     case num = "o":
     case num = "u":
-        document.write("It is Vowel");
-        break;
+    document.write("It is Vowel");
+    break;
     case num = "b":
     case num = "c":
     case num = "d":
@@ -30,6 +30,7 @@ switch (num){
     case num = "y":
     case num = "z":
     document.write("Not vowel");
+    break;
 
     default:
         document.write("Wrong Entry");    
