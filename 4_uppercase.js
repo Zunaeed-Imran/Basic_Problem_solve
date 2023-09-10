@@ -29,7 +29,44 @@ switch(input){
     case input = "Z":
     document.write(input + " is upper case");    
     break;
+
     case input = "a":
-    document.write(upper + " is Lower lower Case")
+    case input = "b":
+    case input = "c":
+    case input = "d":
+    case input = "e":
+    case input = "f":
+    case input = "g":
+    case input = "h":
+    case input = "i":
+    case input = "j":
+    case input = "k":
+    case input = "l":
+    case input = "m":
+    case input = "n":
+    case input = "o":
+    case input = "p":
+    case input = "q":
+    case input = "r":
+    case input = "s":
+    case input = "t":
+    case input = "u":
+    case input = "v":
+    case input = "w":
+    case input = "x":
+    case input = "y":
+    case input = "z":
+    document.write(input + " is Lower lower Case")
     break;
+
+    case input = "+":
+    document.write(input + " is Plus");    
+    break;
+
+    case input = "-":
+    document.write(input + " is Minus");    
+
+
+    default:
+     document.write("Wrong Entry");
 }
