@@ -15,4 +15,5 @@
 - given number is positive or negative or zero will shown
 - i used if-else condation in this program.
 6. A number is even or odd.
-- 
+- this program will show input number is even or odd.
+- i used if-else condation in this program.
