@@ -14,4 +14,5 @@
 5. A number is positive or negative.
 - given number is positive or negative or zero will shown
 - i used if-else condation in this program.
-6. 
+6. A number is even or odd.
+- 
