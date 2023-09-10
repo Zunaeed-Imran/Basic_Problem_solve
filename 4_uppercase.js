@@ -1,33 +1,35 @@
-let upper = prompt("Enter a Alphabet to upperCase");
+let input = prompt("Enter a Alphabet to upperCase");
 
-switch(upper){
-    case upper = "A":
-    case upper = "B":
-    case upper = "C":
-    case upper = "D":
-    case upper = "E":
-    case upper = "F":
-    case upper = "G":
-    case upper = "H":
-    case upper = "I":
-    case upper = "J":
-    case upper = "K":
-    case upper = "L":
-    case upper = "M":
-    case upper = "N":
-    case upper = "O":
-    case upper = "P":
-    case upper = "Q":
-    case upper = "R":
-    case upper = "S":
-    case upper = "T":
-    case upper = "U":
-    case upper = "V":
-    case upper = "W":
-    case upper = "X":
-    case upper = "Y":
-    case upper = "Z":
-
-    document.write(upper + " is upper case");    
+switch(input){
+    case input = "A":
+    case input = "B":
+    case input = "C":
+    case input = "D":
+    case input = "E":
+    case input = "F":
+    case input = "G":
+    case input = "H":
+    case input = "I":
+    case input = "J":
+    case input = "K":
+    case input = "L":
+    case input = "M":
+    case input = "N":
+    case input = "O":
+    case input = "P":
+    case input = "Q":
+    case input = "R":
+    case input = "S":
+    case input = "T":
+    case input = "U":
+    case input = "V":
+    case input = "W":
+    case input = "X":
+    case input = "Y":
+    case input = "Z":
+    document.write(input + " is upper case");    
+    break;
+    case input = "a":
+    document.write(upper + " is Lower lower Case")
     break;
 }
