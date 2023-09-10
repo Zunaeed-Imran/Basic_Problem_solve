@@ -17,3 +17,5 @@
 6. A number is even or odd.
 - this program will show input number is even or odd.
 - i used if-else condation in this program.
+7. Swap two numbers without third variable.
+- 
