@@ -11,3 +11,5 @@
 3. ASCI value see. using switch statement.
 4. Uppercase, Lowercase or special character.
 - will show the input is uppercase or lowercase or special charracter.
+5. A number is positive or negative.
+- 
