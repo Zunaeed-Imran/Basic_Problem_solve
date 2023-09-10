@@ -62,10 +62,46 @@ switch(input){
     case input = "+":
     document.write(input + " is Plus");    
     break;
-
     case input = "-":
-    document.write(input + " is Minus");    
+    document.write(input + " is Minus");   
+    break; 
+    case input = "*":
+    document.write(input + " is Multiple Symbol");    
+    break;
+    case input = "/":
+    document.write(input + " is Division");    
+    break;
 
+    case input = "1":
+    document.write(input + " is One");    
+    break;
+    case input = "2":
+    document.write(input + " is Two");    
+    break;
+    case input = "3":
+    document.write(input + " is Three");    
+    break;
+    case input = "4":
+    document.write(input + " is Four");    
+    break;
+    case input = "5":
+    document.write(input + " is Five");    
+    break;
+    case input = "6":
+    document.write(input + " is Six");    
+    break;
+    case input = "7":
+    document.write(input + " is Seven");    
+    break;
+    case input = "8":
+    document.write(input + " is Eight");    
+    break;
+    case input = "9":
+    document.write(input + " is Nine");    
+    break;
+    case input = "10":
+    document.write(input + " is Ten");    
+    break;
 
     default:
      document.write("Wrong Entry");
