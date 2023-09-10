@@ -12,4 +12,6 @@
 4. Uppercase, Lowercase or special character.
 - will show the input is uppercase or lowercase or special charracter.
 5. A number is positive or negative.
-- 
+- given number is positive or negative or zero will shown
+- i used if-else condation in this program.
+6. 

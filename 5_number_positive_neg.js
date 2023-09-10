@@ -1,18 +1,11 @@
 let num = prompt("Enter any Number");
 
-switch(num){
-    case num >= Number("1"):
-    document.write(num + " is Positive.");
-    break;
-
-    case num < Number("0"):
-    document.write(num + " is Positive.");
-    break;
-
-    case num = Number("0"):
-    document.write(num + " You Entered Zero.");
-    break;
-    
-    default:
-    document.write("Enter Any Number Not Alphabet");    
+if(num === "0"){
+    document.write(num + " You Entered Zero");
+}else if(num >= "0"){
+    document.write(num + " Number is Positive");
+}else if(num <= "0"){
+    document.write(num + " Number is Negative");
+}else{
+    document.write("Enter any number not alphabet or symbol");
 }
