@@ -9,4 +9,5 @@
 - becouse it's changeable 
 - practice branch practice alphabet with if else or condation.
 3. ASCI value see. using switch statement.
-4. Check The input is Uppercase or lowercase or Special Character. 
+4. Uppercase, Lowercase or special character.
+- will show the input is uppercase or lowercase or special charracter.
