@@ -18,15 +18,17 @@
 - this program will show input number is even or odd.
 - i used if-else condation in this program.
 7. Swap two numbers without third variable.
-- 
+- Not done
 8. Area of a circle.
 - area = PI * r-square
-- 
+- Not done
 9. LCM of two numbers
+- Not Done
 - Least common multiple
 - ল সা গু
 - ল সা গু বলতে বুঝায় সেই ক্ষুদ্রতর সংখ্যা যা ওই সংখ্যাগুলোর প্রত্যেকটি দ্বারা নিঃশেষে বিভাজ্য।
 10. GCD of two numbers
+- Not Done
 - The greatest common divisor 
 - (গসাগু) গরিষ্ঠ সাধারণ গুণনীয়ক
 - গরিষ্ঠ সাধারণ গুণনীয়ক g হল সেই বৃহত্তম সংখ্যা যা a এবং b উভয়কেই নিঃশেষে ভাগ করে (কোন অবশিষ্ট থাকে না)।
