@@ -19,3 +19,6 @@
 - i used if-else condation in this program.
 7. Swap two numbers without third variable.
 - 
+8. Area of a circle.
+- area = PI * r-square
+- 
