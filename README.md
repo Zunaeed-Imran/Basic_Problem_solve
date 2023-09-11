@@ -35,6 +35,5 @@
 11. Greatest of two numbers
 - will show the Gretest number of two input
 12. Greatest of three numbers
-- i used if else condation
-- if i set  var-2 2nd  it won't work
+- 
 13. 
