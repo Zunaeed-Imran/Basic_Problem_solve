@@ -22,3 +22,7 @@
 8. Area of a circle.
 - area = PI * r-square
 - 
+9. LCM of two numbers
+- Least common multiple
+- ল সা গু
+- ল সা গু বলতে বুঝায় সেই ক্ষুদ্রতর সংখ্যা যা ওই সংখ্যাগুলোর প্রত্যেকটি দ্বারা নিঃশেষে বিভাজ্য।
