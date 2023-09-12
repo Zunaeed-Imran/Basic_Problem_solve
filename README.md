@@ -37,4 +37,4 @@
 12. Greatest of three numbers.
 - i used Math.max function in javascript
 - in practice branch i used if else condation but it is not properly worked.
-13. 
+13. Number of digits in an integer
