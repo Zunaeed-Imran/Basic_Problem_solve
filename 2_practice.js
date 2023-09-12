@@ -1,3 +1,5 @@
+// ASCI Value using switch ststement.
+
 let asci = prompt("Enter any Alphabet to see ASCI Value of it");
 
 switch(asci){
