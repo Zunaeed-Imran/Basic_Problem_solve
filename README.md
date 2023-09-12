@@ -42,3 +42,6 @@
 - to show how many digit i input.
 14. Sum of digits of a number.
 - sum from 1-n given number will sum 1++;
+- i used for loop to count the number 
+- than take a variable sum
+- than take value from for loop and sum of it
