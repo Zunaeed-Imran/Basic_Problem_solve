@@ -34,6 +34,7 @@
 - গরিষ্ঠ সাধারণ গুণনীয়ক g হল সেই বৃহত্তম সংখ্যা যা a এবং b উভয়কেই নিঃশেষে ভাগ করে (কোন অবশিষ্ট থাকে না)।
 11. Greatest of two numbers
 - will show the Gretest number of two input
-12. Greatest of three numbers
-- 
+12. Greatest of three numbers.
+- i used Math.max function in javascript
+- in practice branch i used if else condation but it is not properly worked.
 13. 
