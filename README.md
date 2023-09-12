@@ -40,4 +40,5 @@
 13. Number of digits in an integer
 - Not done.
 - to show how many digit i input.
-14. 
+14. Sum of digits of a number.
+- sum from 1-n given number will sum 1++;
