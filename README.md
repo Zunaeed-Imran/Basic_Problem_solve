@@ -53,4 +53,7 @@
 - than take value from for loop and sum of it
 - Explanation: 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = 55
 17. Reverse a given number
-- reverse the given number
+- first i split the given number (i only split with "").
+- than reverse the split number.
+- than join the reverse number.
+- than document.write in javascript it will show reverse input number.
