@@ -52,4 +52,5 @@
 - than take a variable sum
 - than take value from for loop and sum of it
 - Explanation: 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = 55
-17. 
+17. Reverse a given number
+- reverse the given number
