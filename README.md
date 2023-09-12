@@ -41,7 +41,14 @@
 - Not done.
 - to show how many digit i input.
 14. Sum of digits of a number.
+- Not done
+- For example, let the input number be 719. The sum of digits of 719 = 7 + 1 + 9 = 17
+15. Sum of N natural numbers
+- not done
+- Natural numbers are all positive integers from 1 to infinity.
+16. Sum of numbers in a given range
 - sum from 1-n given number will sum 1++;
 - i used for loop to count the number 
 - than take a variable sum
 - than take value from for loop and sum of it
+- Explanation: 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = 55
