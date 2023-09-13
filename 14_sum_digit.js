@@ -2,5 +2,9 @@
 
 let num = prompt("Enter any Number");
 const num1 = num.split("");
+let sum;
+for(let i = num1[0]; i <= num1[5]; i++){
+    sum+=i;
+}
 
-document.write(num1);
+document.write(sum);
