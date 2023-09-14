@@ -1,6 +1,5 @@
-let num = prompt("Enter a number");
+const values = [2, 4, 54, 8, 10]
 
-var result = num.map((num) => {
-    return num * 2;
-});
-document.write(result);
+const newValues = values.map(value => value + 2)
+
+console.log(newValues);
