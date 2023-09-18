@@ -120,3 +120,7 @@
   and 1.
 - A prime number cannot be divided by any other positive integer without leaving
   a remainder, decimal or fraction.
+
+22. Palindrome or not
+
+- 
