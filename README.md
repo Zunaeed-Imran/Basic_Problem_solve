@@ -126,3 +126,7 @@
 - Palindrome নাম্বার হল কোন নাম্বার রিভার্স করলে একই মান আসে তাকে বলে|
 - Example 121 reverse 121 এর মান সমান হবে|
 - remember to `split, reverse & join` to give ('')
+
+23. Armstrong number or not
+
+- 
