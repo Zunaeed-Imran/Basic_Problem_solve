@@ -106,3 +106,10 @@
 - Not done
 - Example of Fibonacci Sequence = 0, 1, 1, 2, 3, 5, 8, 13, 21
 - Fibonacci Sequence Formula, Fn = Fn-1+Fn-2
+
+20. Leap year or not
+
+- The year is multiple of 400. The year is a multiple of 4 and not a multiple
+  of 100.
+
+21. 
