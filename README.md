@@ -114,5 +114,9 @@
 
 21. Prime number or not
 
-- Any whole number greater than 1 that is divisible only by 1 and itself, is defined as a prime number.  
-- 
+- Any whole number greater than 1 that is divisible only by 1 and itself, is
+  defined as a prime number.
+- A prime number is a whole number greater than 1 with only two factors – itself
+  and 1.
+- A prime number cannot be divided by any other positive integer without leaving
+  a remainder, decimal or fraction.
