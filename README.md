@@ -97,7 +97,7 @@
 - than join the reverse number.
 - than document.write in javascript it will show reverse input number.
 
-18. Map filter reduce
+18. Map filter reduce/ another way write
 
 - we use array map in this example
 - good example with that tutorial
