@@ -5,6 +5,9 @@ let spl = num.split('');
 let rev = spl.reverse();
 let join = rev.join();
 
+document.write(num + '<br>');   // for checking out put
+document.write(join + '<br>');  // for checking output
+
 if (num === join) {
   document.write(num + ' is Palindrome Number');
 } else {
