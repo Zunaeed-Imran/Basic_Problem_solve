@@ -96,3 +96,9 @@
 - than reverse the split number.
 - than join the reverse number.
 - than document.write in javascript it will show reverse input number.
+
+18. Map filter reduce
+
+- we use array map in this example
+- good example with that tutorial
+-   [Map filter and reduce in 25:57](https://youtu.be/zdp0zrpKzIE?si=bmrJ_3fbo3K5JqJ_)
