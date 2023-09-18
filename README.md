@@ -100,3 +100,8 @@
 18. Factorial of a number
 
 - example, the factorial of 4 is 4 × 3 × 2 × 1, which is equal to 24.
+
+19. Fibonacci series up ton
+
+- Example of Fibonacci Sequence = 0, 1, 1, 2, 3, 5, 8, 13, 21
+- Fibonacci Sequence Formula, Fn = Fn-1+Fn-2
