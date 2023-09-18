@@ -96,3 +96,7 @@
 - than reverse the split number.
 - than join the reverse number.
 - than document.write in javascript it will show reverse input number.
+
+18. Factorial of a number
+
+- example, the factorial of 4 is 4 × 3 × 2 × 1, which is equal to 24.
