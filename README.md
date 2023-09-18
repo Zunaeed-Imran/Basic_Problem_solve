@@ -112,4 +112,7 @@
 - The year is multiple of 400. The year is a multiple of 4 and not a multiple
   of 100.
 
-21. 
+21. Prime number or not
+
+- Any whole number greater than 1 that is divisible only by 1 and itself, is defined as a prime number.  
+- 
