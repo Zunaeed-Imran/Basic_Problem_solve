@@ -1,6 +1,7 @@
 # Basic_Problem_solve
 
 ---
+
 #### Basic problem solving practice
 
 ---
@@ -178,25 +179,50 @@
 31. Factors of a number
 
 - Not done yet
-- factor, in mathematics, a number or algebraic expression that divides another number or expression evenly—i.e., with no remainder. 
+- factor, in mathematics, a number or algebraic expression that divides another
+  number or expression evenly—i.e., with no remainder.
 - Example
 
-| 3	|1, |3  |   |   |   |   |    |    |    |
-|---|---|---|---|---|---|---|----|----|----|
-|18	|1, |2, |3, |6, |9, |18
-|36	|1, |2, |3, |4, |6, |9, |12, |18, |36
-|48	|1, |2, |3, |4, |6, |8, |12, |16, |24, |48
+| 3   | 1,  | 3   |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 18  | 1,  | 2,  | 3,  | 6,  | 9,  | 18  |
+| 36  | 1,  | 2,  | 3,  | 4,  | 6,  | 9,  | 12, | 18, | 36  |
+| 48  | 1,  | 2,  | 3,  | 4,  | 6,  | 8,  | 12, | 16, | 24, | 48  |
 
 - [This calculator will help me understand](https://www.calculatorsoup.com/calculators/math/factors.php)
-
 
 32. Add two fractions
 
 - Not Done yet
 
 ---
-***_ Medium _***
----
+
+## **_* Medium *_**
+
 33. Prime numbers in a given range
 
 - Not Done yet
+
+34. Armstrong numbers between two intervals
+
+- Not done yet
+
+35. Can a number be expressed as a sum of two prime numbers?
+
+- Not done yet
+
+36. Replace all 0's with 1 in a given integer
+
+- not done yet
+
+37. Binary to decimal conversion
+
+- not done
+
+38. Decimal to binary conversion
+
+- not done yet
+
+39. Decimal to octal conversion
+
+- Not done yet
