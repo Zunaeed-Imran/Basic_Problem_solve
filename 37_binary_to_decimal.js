@@ -1,3 +1,4 @@
-// this program will binary the input decimal number
+// this program will Decimal the input Binary number.
 
-let num = prompt('Enter a Decimal number to binary it');
+let num = prompt('Enter a Binary number to Decimal it it');
+
