@@ -129,4 +129,7 @@
 
 23. Armstrong number or not
 
-- Not DOne
+- Not Done.
+- sum of the quibe is call Armstrong Number.
+- Example   153 = 1*3 + 5*3 + 3*3 = 1 + 125 + 27 = 153 
+- 
