@@ -1,6 +1,9 @@
 # Basic_Problem_solve
 
-#### basic problem solving practice
+---
+#### Basic problem solving practice
+
+---
 
 1. vowel and consonent will show the entry.
 
