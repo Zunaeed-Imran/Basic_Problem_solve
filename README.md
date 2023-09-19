@@ -162,3 +162,26 @@
 28. Harshad number or not
 
 - Not DOne
+
+29. Abundant number or not
+
+- Not Done Yet
+
+30. Power of a number
+
+- Not done yet
+
+31. Factors of a number
+
+- Not done yet
+
+32. Add two fractions
+
+- Not Done yet
+
+---
+***_ Medium _***
+---
+33. Prime numbers in a given range
+
+- Not Done yet
