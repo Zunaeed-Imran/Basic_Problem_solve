@@ -183,10 +183,10 @@
   number or expression evenly—i.e., with no remainder.
 - Example
 
-| 3   | 1,  | 3   |     |     |     |     |     |     |     |
+| 3   | 1   | 3   |     |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 18  | 1,  | 2,  | 3,  | 6,  | 9,  | 18  |
-| 36  | 1,  | 2,  | 3,  | 4,  | 6,  | 9,  | 12, | 18, | 36  |
+| 18  | 1,  | 2,  | 3,  | 6,  | 9,  | 18  |     |     |     |     |
+| 36  | 1,  | 2,  | 3,  | 4,  | 6,  | 9,  | 12, | 18, | 36  |     |
 | 48  | 1,  | 2,  | 3,  | 4,  | 6,  | 8,  | 12, | 16, | 24, | 48  |
 
 - [This calculator will help me understand](https://www.calculatorsoup.com/calculators/math/factors.php)
@@ -226,4 +226,3 @@
 39. Decimal to octal conversion
 
 - Not done yet
--
