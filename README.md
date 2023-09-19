@@ -186,7 +186,7 @@
 |36	|1, |2, |3, |4, |6, |9, |12, |18, |36
 |48	|1, |2, |3, |4, |6, |8, |12, |16, |24, |48
 
-
+- [This calculator will help me understand](https://www.calculatorsoup.com/calculators/math/factors.php)
 
 
 32. Add two fractions
