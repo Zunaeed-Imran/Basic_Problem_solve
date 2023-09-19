@@ -178,6 +178,7 @@
 31. Factors of a number
 
 - Not done yet
+- factor, in mathematics, a number or algebraic expression that divides another number or expression evenly—i.e., with no remainder. 
 - Example
 
 | 3	|1, |3  |   |   |   |   |    |    |    |
