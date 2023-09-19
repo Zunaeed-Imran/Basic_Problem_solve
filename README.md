@@ -172,7 +172,8 @@
 
 30. Power of a number
 
-- Not done yet
+- This program will shown power of the given number.
+- Also i can set the power of it.
 
 31. Factors of a number
 
