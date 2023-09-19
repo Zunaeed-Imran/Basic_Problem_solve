@@ -131,5 +131,20 @@
 
 - Not Done.
 - sum of the quibe is call Armstrong Number.
-- Example   153 = 1*3 + 5*3 + 3*3 = 1 + 125 + 27 = 153 
-- 
+- Example 153 = 1*3 + 5*3 + 3\*3 = 1 + 125 + 27 = 153
+
+24. Strong number or not
+
+- Not done
+- Strong number is a special number whose sum of the factorial of digits is
+  equal to the original number.
+- For Example: 145 is strong number. Since, 1! + 4! + 5!
+-
+
+25. Perfect number or not
+
+- Not Done
+
+26. Friendly pair or not (amicable or not)
+
+- Not Done
