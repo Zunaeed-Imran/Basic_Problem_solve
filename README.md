@@ -40,8 +40,8 @@
 
 8. Area of a circle.
 
-- area = PI \* r-square
-- Not done
+- area = PI * r-square
+- In mathematics, the area of a circle is defined as the number of square units that cover inside the circle.  
 
 9. LCM of two numbers
 
