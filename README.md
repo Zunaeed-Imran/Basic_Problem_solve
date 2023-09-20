@@ -219,7 +219,7 @@
 
 - A binary number system is defined as a number that is used in binary systems.
 - It represents the numeric values with two distinct symbols, basically 1 (one) and 0 (zero).
-- Example:  if Binary is "101011" than dewcimal = 43
+- Example:  if Binary is "101011" than Decimal = 43
  
 |binary  |1|0|1|0|1|1|
 |--------|-|-|-|-|-|-|
