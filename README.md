@@ -231,6 +231,11 @@
 38. Decimal to binary conversion
 
 - not done yet
+- Write down the number.
+- Divide it by 2 and note the remainder.
+- Divide the quotient obtained by 2 and note the remainder.
+- Repeat the same process till we get 0 as the quotient.
+- Write the values of all the remainders starting from the bottom to the top.
 
 39. Decimal to octal conversion
 
