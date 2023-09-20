@@ -217,7 +217,16 @@
 
 37. Binary to decimal conversion
 
-- not done
+- A binary number system is defined as a number that is used in binary systems.
+- It represents the numeric values with two distinct symbols, basically 1 (one) and 0 (zero).
+- Example:  if Binary is "101011" than dewcimal = 43
+ 
+|binary  |1|0|1|0|1|1|
+|--------|-|-|-|-|-|-|
+|base two|2|2|2|2|2|2|
+|power   |5|4|3|2|1|0|
+|decimal |32|0|8|0|2|1|
+|sum of final result is|43|
 
 38. Decimal to binary conversion
 
