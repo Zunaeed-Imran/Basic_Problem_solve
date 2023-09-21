@@ -70,13 +70,12 @@
 
 13. Number of digits in an integer
 
-- Not done.
 - to show how many digit i input.
 - The program to count a number of digits in an integer is discussed here. An integer is given as input and the total number of digits in that integer is displayed as output. 
 
 14. Sum of digits of a number.
 
-- Not done
+- We use array not input value like prompt we use
 - For example, let the input number be 719. The sum of digits of 719 = 7 + 1 + 9
   = 17
 - var.split("") (ডবল কোটেশন এর মধ্যে আমরা যা দেব সেইভাবে split করবে)
