@@ -148,6 +148,8 @@
 25. Perfect number or not
 
 - Not Done
+- Perfect number is sum of it's Divisors (and remainder will be '0')
+- Example's,  6 = 3 + 2 + 1, and 28 = 14 + 7 + 4 + 2 + 1. 
 
 26. Friendly pair or not (amicable or not)
 
