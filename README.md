@@ -167,7 +167,8 @@
 
 28. Harshad number or not
 
-- Not DOne
+- Not Done
+- if it is divisible by the sum of its digit. For example, if number is 156, then sum of its digit will be 1 + 5 + 6 = 12. Since 156 is divisible by 12. So, 156 is a Harshad number.
 
 29. Abundant number or not
 
@@ -181,6 +182,7 @@
 31. Factors of a number
 
 - Not done yet
+- [Better understand tutorial](https://youtu.be/ElgJ7q18dNE?si=7VhZOc2-IYrCZvwi)
 - factor, in mathematics, a number or algebraic expression that divides another
   number or expression evenly—i.e., with no remainder.
 - Example
