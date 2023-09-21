@@ -83,8 +83,8 @@
 
 15. Sum of N natural numbers
 
-- not done
 - Natural numbers are all positive integers from 1 to infinity.
+- i just use simple sum in for loop.
 
 16. Sum of numbers in a given range.
 
