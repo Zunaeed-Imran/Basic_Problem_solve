@@ -75,7 +75,8 @@
 
 14. Sum of digits of a number.
 
-- We use array not input value like prompt we use
+- not done
+- we use input by prompt than make array by split
 - For example, let the input number be 719. The sum of digits of 719 = 7 + 1 + 9
   = 17
 - var.split("") (ডবল কোটেশন এর মধ্যে আমরা যা দেব সেইভাবে split করবে)
