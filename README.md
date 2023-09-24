@@ -36,7 +36,7 @@
 
 7. Swap two numbers without third variable.
 
-- Not done
+- we just simply swap.
 
 8. Area of a circle.
 

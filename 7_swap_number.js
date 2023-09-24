@@ -1,12 +1,11 @@
-let num1 = 30;
-let num2 = 20;
+// we simply swap without third variable.
 
-switch(num1, num2){
-    case num1:
-    document.write(num2);
-    break;
+let num1 = prompt("Enter 1st number")
+let num2 = prompt("Enter 2nd number")
 
-    case num2:
-    document.write(num1);
-    break;    
-}
+let result1 = num2;
+let result2 = num1;
+
+document.write("2nd variable is " + result1 + "<br>");
+document.write("1st variable is " + result2 + "<br>");
+
