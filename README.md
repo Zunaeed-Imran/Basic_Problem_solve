@@ -176,7 +176,10 @@
 
 29. Abundant number or not
 
-- Not Done Yet
+- [calculator and example to better understand](https://allmathsymbols.com/abundant-number-calculator/)
+- Abundant নাম্বার হল ওই নাম্বার যতবার ভাগফল "0" আসে সেগুলো যোগফল যদি নাম্বারের থেকে বড় হয় তাহলে সেটি Abundant number. এবং ইনপুট নাম্বার থেকে যত বড় হবে সেই সংখ্যাটি Abundant number এর মান| 
+- an abundant number or excessive number is a positive integer for which the sum of its proper divisors is greater than the number.
+- [Abundant number or not Tutorial](https://youtu.be/m2QrAK2ltr8?si=v13EO8B8UpM3IABI)
 
 30. Power of a number
 
