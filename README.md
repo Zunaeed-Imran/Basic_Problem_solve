@@ -171,6 +171,7 @@
 28. Harshad number or not
 
 - Not Done
+- Harshad নাম্বার হল নাম্বার ডিজিট এর যোগফল দ্বারা ভাগ দিলে ভাগ ফল শূন্য আসবে|
 - if it is divisible by the sum of its digit. For example, if number is 156, then sum of its digit will be 1 + 5 + 6 = 12. Since 156 is divisible by 12. So, 156 is a Harshad number.
 
 29. Abundant number or not
