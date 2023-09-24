@@ -163,7 +163,10 @@
 
 27. Automorphic number or not
 
-- Not Done
+- Given a number N, the task is to check whether the number is an Automorphic number or not. A number is called an Automorphic number if and only if its square ends in the same digits as the number itself.
+- Example : Input  : N = 25
+            Output : Automorphic
+            As 25*25 = 625
 
 28. Harshad number or not
 
