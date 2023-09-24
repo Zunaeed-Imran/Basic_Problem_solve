@@ -203,7 +203,13 @@
 
 32. Add two fractions
 
-- Not Done yet
+- ফ্রাকশন নাম্বার হল অনেকগুলো নাম্বার একসাথে নিয়ে যোগ বিয়োগ গুন ভাগ ইত্যাদি করা এখানে আমরা যোগ করেছি| 
+- এখানে নাম্বারের পরে পয়েন্ট রাখতে না চাইলে CSS ব্যবহার করলে হয়ে যাবে|
+- In real life, when we cut a piece of cake from the whole of it
+- A fraction is a number that represents a part of a whole.
+- the fraction can be a portion of any quantity out of the whole thing and the whole can be any specific things or value.
+- Example: Input: 1, 3 ,3, 9 Output: 2, 3
+- [Fraction Caloculator to better Understand](https://www.calculatorsoup.com/calculators/math/fractions.php)
 
 ---
 
