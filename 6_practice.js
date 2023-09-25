@@ -1,3 +1,5 @@
+// practice with group replace string or number
+
 let num = prompt("Enter a number or '0'");
 
 let rep = num.replace(/0/g, "1");
