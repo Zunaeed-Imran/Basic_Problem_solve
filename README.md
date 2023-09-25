@@ -45,7 +45,6 @@
 
 9. LCM of two numbers
 
-- Not Done
 - Least common multiple
 - ল সা গু
 - ল সা গু বলতে বুঝায় সেই ক্ষুদ্রতর সংখ্যা যা ওই সংখ্যাগুলোর প্রত্যেকটি দ্বারা
@@ -57,16 +56,20 @@
       2 |_6__20_____
 
         3,  10 
-        
+
      so, LCM = 2 * 2 * 3 * 10 = 120   
 
 10. GCD of two numbers
 
-- Not Done
+- not done
 - The greatest common divisor
 - (গসাগু) গরিষ্ঠ সাধারণ গুণনীয়ক
 - গরিষ্ঠ সাধারণ গুণনীয়ক g হল সেই বৃহত্তম সংখ্যা যা a এবং b উভয়কেই নিঃশেষে ভাগ
   করে (কোন অবশিষ্ট থাকে না)।
+- Example: 
+   - The factors of 12 are: 1, 2, 3, 4, 6, 12
+   - The factors of 40 are: 1, 2, 4, 5, 8, 10, 20, 40  
+   - Then the greatest common factor is 4.
 
 11. Greatest of two numbers
 
