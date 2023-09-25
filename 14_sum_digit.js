@@ -2,8 +2,12 @@
 
 let num = prompt('Enter any number digit');
 
-let spl = num.split();
+let sum = 0;
 
-let result = spl.reduce((a, c) =>  a + c);
+for (let i = 0; i <= num.length; i++){
+  sum = parseInt(sum + i)
+}
 
-document.write(result);
+let result = sum.reduce((a, c) =>  a + c);
+
+document.write(result + "<br>");
