@@ -241,7 +241,9 @@
 
 36. Replace all 0's with 1 in a given integer
 
-- not done yet
+- this will replace all with "1"
+- if i type ("0", "1") it will only cahnge one 0 to 1;
+- that's how group replace work
 
 37. Binary to decimal conversion
 
