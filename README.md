@@ -17,3 +17,4 @@
 5. in "practice 5" we use javascript input array by prompt
 
 7. we multiplay input digit in example "7"
+8. also work with "Number" Don't need Parseint in array
