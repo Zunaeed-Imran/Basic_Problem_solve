@@ -4,10 +4,7 @@ let num = prompt('Enter any number digit');
 
 let sum = 0;
 
-for (let i = 0; i <= num.length; i++){
-  sum = parseInt(sum + i)
+for (let i = 0; i < num.length; i++){
+  sum+= parseInt(num[i])
 }
-
-let result = sum.reduce((a, c) =>  a + c);
-
-document.write(result + "<br>");
+document.write(sum);

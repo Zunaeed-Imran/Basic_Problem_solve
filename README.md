@@ -87,12 +87,10 @@
 
 14. Sum of digits of a number.
 
-- not done
-- we use input by prompt than make array by split
+- we use input by prompt than input value.length
+- than we use parseint and array []
 - For example, let the input number be 719. The sum of digits of 719 = 7 + 1 + 9
   = 17
-- var.split("") (ডবল কোটেশন এর মধ্যে আমরা যা দেব সেইভাবে split করবে)
-- যদি স্পেস দিই তাহলে স্পেস বরাবর split করবে
 
 15. Sum of N natural numbers
 
