@@ -15,3 +15,5 @@
 - becouse it's changeable
 
 5. in "practice 5" we use javascript input array by prompt
+
+7. we multiplay input digit in example "7"
