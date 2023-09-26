@@ -4,12 +4,17 @@
 
 let num = prompt('Enter a Number to see Harshed Number or not');
 
-let num2 = num.split('');
+let sum = 0;
 
-let sum = num2[0, 1, 2, 3];
+for (let i = 0; i < num.length; i++){  // frist we make number split and sum of it
+  sum += Number(num[i]);
+}
 
-if (num / sum === 0) {
-  document.write(num + " is Harshed Number");
+// document.write(sum);
+
+
+if (num % sum === 0) {
+  document.write(num + " is Harshed Number");  // than we compare is it devided or not
 } else {
   document.write(num + " Not Harshed Number");
 }
