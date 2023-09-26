@@ -88,6 +88,7 @@
 14. Sum of digits of a number.
 
 - we use input by prompt than input value.length
+- in for-loop if we use "<=" it won't work.
 - than we use parseint and array []
 - For example, let the input number be 719. The sum of digits of 719 = 7 + 1 + 9
   = 17

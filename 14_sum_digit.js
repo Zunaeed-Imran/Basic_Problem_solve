@@ -4,7 +4,7 @@ let num = prompt('Enter any number digit');
 
 let sum = 0;
 
-for (let i = 0; i < num.length; i++){
-  sum+= parseInt(num[i])
+for (let i = 0; i < num.length; i++){        // Here if we use "<=" it won't work.
+  sum += parseInt(num[i]);
 }
 document.write(sum);
