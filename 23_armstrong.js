@@ -2,13 +2,13 @@
 
 let num = prompt('Enter a number to see armstrong Number or Not');  // we take input First
 
-let sum = 0;  // we take "sum" variable for sum in loop
-let p = 0;    // we take "p" variable for power in tha loop value
+let sum = 0;                                                     // we take "sum" variable for sum in loop
+let p = 0;                                                    // we take "p" variable for power in tha loop value
 
-for (let i = 0; i < num.length; i++) { // Here if we use "<=" it won't work.
+for (let i = 0; i < num.length; i++) {                     // Here if we use "<=" it won't work.
 
-  p = Math.pow(Number(num[i]), 3);     // we use "Number" make string to number in given value array
-  sum += p;                            // we adding the power to compare the input.
+  p = Math.pow(Number(num[i]), 3);                     // we use "Number" make string to number in given value array
+  sum += p;                                                // we adding the power to compare the input.
 }
 
 
