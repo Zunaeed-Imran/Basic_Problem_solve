@@ -145,7 +145,6 @@
 
 23. Armstrong number or not
 
-- Not Done.
 - sum of the quibe is call Armstrong Number.
 - Example 153 = 1*3 + 5*3 + 3*3 = 1 + 125 + 27 = 153
 - 153 Armstrong নাম্বার কারণ প্রত্যেকটা ডিজিট যদি কিউব করা হয়, এবং যোগ করা হয়| ইনপুট মানের সমান হবে.
