@@ -233,10 +233,12 @@
 33. Prime numbers in a given range
 
 - Not Done yet
+- A prime number is a positive integer that is divisible by only 1 and itself.
 
 34. Armstrong numbers between two intervals
 
 - Not done yet
+- n the given range and checks if each number is an Armstrong number or not. If it is,  include it in the list of Armstrong numbers within that interval.
 
 35. Can a number be expressed as a sum of two prime numbers?
 
