@@ -2,13 +2,14 @@
 
 let num = prompt('Enter a number to Fibonacci series');
 
-let sum = 1;
+let sum = 0;
 
 
 for (let i = 0; i <= num; i++) {
-  
-  for (let n of Number(num[i])) {
-    sum += n;
-  }
+  sum = i;
 }
-document.write(sum);
+
+const result = sum.toString("");
+const res2 = result.split("");
+const res3 = res2.reduce((a, c) => a + c);
+document.write(res3);
