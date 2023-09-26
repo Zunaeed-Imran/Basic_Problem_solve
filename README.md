@@ -153,9 +153,14 @@
 24. Strong number or not
 
 - Not done
+- It is a positive integer.
 - Strong number is a special number whose sum of the factorial of digits is
   equal to the original number.
-- For Example: 145 is strong number. Since, 1! + 4! + 5!
+- Example: Take the number 145:
+- The factorial of 1 is 1 (1! = 1).
+- The factorial of 4 is 24 (4! = 4 x 3 x 2 x 1 = 24).
+- The factorial of 5 is 120 (5! = 5 x 4 x 3 x 2 x 1 = 120).
+- Now, add up these factorials: 1 + 24 + 120 = 145, which is the original number. Therefore, 145 is a strong number.
 - [Calculator strong number](https://www.codesansar.com/online-calculator/check-strong-number.htm)
 
 25. Perfect number or not
