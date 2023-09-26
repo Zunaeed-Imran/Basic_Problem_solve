@@ -170,7 +170,6 @@
 
 26. Friendly pair or not (amicable or not)
 
-- Not Done
 - Example (220, 284)
 - [Explain in This video](https://youtu.be/qx0OlrXs3HI?si=cEQJsbKylyU4_Cl1)
 - ফ্রেন্ডলি পেয়ার নাম্বার হল ওই নাম্বারকে যতবার করলে ভাগফল শূন্য হবে ওই
