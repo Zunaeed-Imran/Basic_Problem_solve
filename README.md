@@ -234,7 +234,14 @@
 
 - Not Done yet
 - A prime number is a positive integer that is divisible by only 1 and itself.
-
+- [Understand better](https://youtu.be/YhRtLwZTOIA?si=srfBnGNGOwkaxlv2)
+- Any whole number greater than 1 that is divisible only by 1 and itself, is
+  defined as a prime number.
+- A prime number is a whole number greater than 1 with only two factors – itself
+  and 1.
+- A prime number cannot be divided by any other positive integer without leaving
+  a remainder, decimal or fraction.
+  
 34. Armstrong numbers between two intervals
 
 - Not done yet
