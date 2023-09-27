@@ -342,7 +342,7 @@
 
 - Outer forloop is for row's
 - Inner forloop is for column.
-- 
+- [This tutorial will help to think](https://youtu.be/lsOOs5J8ycw?si=fgcHj4PdDgC5m7Cj)
 
 53. Pyramid pattern using stars
 
@@ -366,7 +366,8 @@
 
 58. Floyd's triangle
 
-- Not done yet
+- Floyd's triangle using for loop
+- the simple triangle draw
 
 59. Pascal triangle
 
