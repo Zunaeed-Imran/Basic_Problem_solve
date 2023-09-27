@@ -241,7 +241,7 @@
   and 1.
 - A prime number cannot be divided by any other positive integer without leaving
   a remainder, decimal or fraction.
-  
+
 34. Armstrong numbers between two intervals
 
 - Not done yet
@@ -282,3 +282,418 @@
 39. Decimal to octal conversion
 
 - Not done yet
+
+40. Octal to decimal conversion
+
+- Not done yet
+
+41. Binary to octal conversion
+
+- Not done yet
+
+42. Octal to binary conversion
+
+- Not done yet
+
+43. Maximum number of handshakes
+
+- Not done yet
+
+44. Quadrants in which coordinates lie
+
+- Not done yet
+
+45. Convert digit/number to words
+
+- Not done yet
+
+46. Number of days in a given month of a given year
+
+- Not done yet
+
+47. Permutations in which n people can occupy r seats in a theatre
+
+- Not done yet
+
+48. Number of times digit 3 occurs in each and every number from 0 to n
+
+- Not done yet
+
+49. Number of integers which has exactly 9 divisors
+
+- Not done yet
+
+50. Roots of a quadratic equation
+
+- Not done yet
+
+51. Count possible decodings of a given digit sequence
+
+- Not done yet
+
+---
+
+## **_* Pattern printing programs *_**
+
+52. Solid and hollow rectangle star pattern
+
+- Not done yet
+
+53. Pyramid pattern using stars
+
+- Not done yet
+
+54. Pyramid pattern using numbers
+
+- Not done yet
+
+55. Palindromic pyramid pattern printing
+
+- Not done yet
+
+56. Diamond pattern printing using stars
+
+- Not done yet
+
+57. Diamond pattern printing using numbers
+
+- Not done yet
+
+58. Floyd's triangle
+
+- Not done yet
+
+59. Pascal triangle
+
+- Not done yet
+
+60. All other pattern programs
+
+- Not done yet
+
+61. Basic string operations
+
+- Not done yet
+
+62. Length of the string without using strlen() function
+
+- Not done yet
+
+63. Toggle each character in a string
+
+- Not done yet
+
+64. Count the number of vowels
+
+- Not done yet
+
+65. Remove vowels from a string
+
+- Not done yet
+
+66. String is a palindrome or not
+
+- Not done yet
+
+67. Sorting a string in alphabetical order
+
+- Not done yet
+ 
+68. Removing brackets from an algebraic expression
+
+- Not done yet
+
+69. Remove characters in a string except alphabets
+
+- Not done yet
+
+70. Remove spaces from a string
+
+- Not done yet
+
+71. Count the sum of numbers in a string
+
+- Not done yet
+
+72. Capitalize the first and last letter of each word of a string
+
+- Not done yet
+
+73. Frequency of characters in a string
+
+- Not done yet
+
+74. Non-repeating characters in a string
+
+- Not done yet
+
+75. Check if two strings are
+
+- Not done yet
+
+76. Anagram or not
+
+- Not done yet
+
+77. Patterns of 0(1+)0 in the given string
+
+- Not done yet
+
+78. Replace substring in a string
+
+- Not done yet
+
+79. Count common subsequence in two strings
+
+- Not done yet
+
+80. Reverse a string
+
+- Not done yet
+
+81. Check if two strings match where one string contains wildcard characters
+
+- Not done yet
+
+---
+
+## **_* Arrays  *_**
+
+## **_* 1-D Arrays  *_**
+
+82. Basic array operations (Insert, delete and search an element)
+
+- Not done yet
+
+83. Smallest and largest element in an array
+
+- Not done yet
+
+84. Sum of elements in an array
+
+- Not done yet
+
+85. Check if two arrays are the same or not
+
+- Not done yet
+
+86. Finding the array type
+
+- Not done yet
+
+87. Sum of positive square elements in an array
+
+- Not done yet
+
+88. Second smallest element in an array
+
+- Not done yet
+
+89. Sorting the elements of an array
+
+- Not done yet
+
+90. Reversing an array
+
+- Not done yet
+
+91. Longest palindrome in an array
+
+- Not done yet
+
+92. Count distinct elements of an array
+
+- Not done yet
+
+93. Non-repeating elements of an array
+
+- Not done yet
+
+94. Repeating elements in an array
+
+- Not done yet
+
+95. Remove duplicate elements in an array
+
+- Not done yet
+
+96. Minimum scalar product of two vectors
+
+- Not done yet
+
+97. Maximum scalar product of two vectors
+
+- Not done yet
+
+98. Can the numbers of an array be made equal?
+
+- Not done yet
+
+99. Missing elements of a range
+
+- Not done yet
+
+100. Triplets with a given sum
+
+- Not done yet
+
+101. Number of even and odd elements in an array
+
+- Not done yet
+
+102. Frequency of each element of an array
+
+- Not done yet
+
+103. Symmetric pairs in an array
+
+- Not done yet
+
+104. Maximum product subarray in a given array
+
+- Not done yet
+
+105. Arrays are disjoint or not
+
+- Not done yet
+
+106. Array is a subset of another array or not
+
+- Not done yet
+
+107. Can all numbers of an array be made equal
+
+- Not done yet
+
+108. Minimum sum of absolute difference of given array
+
+- Not done yet
+
+109. Sorting elements of an array by frequency
+
+- Not done yet
+
+110. Sort an array according to the order defined by another array
+
+- Not done yet
+
+111. Replace each element of the array by its rank in the array
+
+- Not done yet
+
+112. Equilibrium index of an array
+
+- Not done yet
+
+113. Array rotation - Left and right
+
+- Not done yet
+
+114. Block swap algorithm for array rotation
+
+- Not done yet
+
+115. Juggling algorithm for array rotation
+
+- Not done yet
+
+116. Circular rotation of an array by K positions
+
+- Not done yet
+
+117. Convert an array into a zig-zag fashion
+
+- Not done yet
+
+118. Merge two sorted arrays
+
+- Not done yet
+
+119. Longest subarray having an average greater than or equal to k
+
+- Not done yet
+
+120. Rearrange positive and negative numbers in an array
+
+- Not done yet
+
+121. Sum of all odd frequency elements in an array
+
+- Not done yet
+
+122. Median of two sorted arrays
+
+- Not done yet
+
+123. 0-1 Knapsack problem
+
+- Not done yet
+
+---
+
+## **_* 2-D Arrays  *_**
+
+124. Matrix operations (Addition, subtraction and multiplication)
+
+- Not done yet
+
+125. Transpose of a matrix
+
+- Not done yet
+
+126. Upper triangular matrix or not
+
+- Not done yet
+
+127. Lower triangular matrix or not
+
+- Not done yet
+
+128. The maximum element in a row
+
+- Not done yet
+
+129. The maximum element in a column
+
+- Not done yet
+
+130. Sum of each row and column of a matrix
+
+- Not done yet
+
+131. Saddle point coordinates of a given matrix
+
+- Not done yet
+
+132. Sum of elements in the zig-zag sequence of a matrix
+
+- Not done yet
+
+133. Sum of boundary elements of a matrix
+
+- Not done yet
+
+134. Matrix printing in aspiral form
+
+- Not done yet
+
+135. Rotate the matrix by K times
+
+- Not done yet
+
+136. Matrix rotation by 90 degrees clockwise and anticlockwise
+
+- Not done yet
+
+137. Maximum size of square submatrix with all 1s in a binary matrix
+
+- Not done yet
+
+
+
+
+
+
+
+---
+---
