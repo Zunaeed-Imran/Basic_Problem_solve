@@ -377,9 +377,12 @@
 
 - Not done yet
 
+## **_* Basic JavaScript Programs on Strings *_**
+
 61. Basic string operations
 
-- Not done yet
+- JavaScript strings are for storing and manipulating text.
+- The backslash (\) escape character turns special characters into string characters:
 
 62. Length of the string without using strlen() function
 
