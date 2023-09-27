@@ -260,6 +260,7 @@
 
 37. Binary to decimal conversion
 
+- we have to use loop reverse becouse that's how binary to decimal work.
 - A binary number system is defined as a number that is used in binary systems.
 - It represents the numeric values with two distinct symbols, basically 1 (one) and 0 (zero).
 - Example:  if Binary is "101011" than Decimal = 43
@@ -298,7 +299,8 @@
 
 43. Maximum number of handshakes
 
-- Not done yet
+- Formula: n*(n-1)/2
+- this is a simple formula.
 
 44. Quadrants in which coordinates lie
 
