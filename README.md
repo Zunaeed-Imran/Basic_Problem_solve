@@ -340,7 +340,9 @@
 
 52. Solid and hollow rectangle star pattern
 
-- Not done yet
+- Outer forloop is for row's
+- Inner forloop is for column.
+- 
 
 53. Pyramid pattern using stars
 
