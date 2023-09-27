@@ -4,6 +4,8 @@ let num = prompt('Enter a Binary number to Decimal it it');
 
 let spl = num.split('');
 
+
+
 let n1 = Math.pow(2, 5);
 let n2 = Math.pow(2, 4);
 let n3 = Math.pow(2, 3);

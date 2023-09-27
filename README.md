@@ -162,6 +162,7 @@
 - The factorial of 5 is 120 (5! = 5 x 4 x 3 x 2 x 1 = 120).
 - Now, add up these factorials: 1 + 24 + 120 = 145, which is the original number. Therefore, 145 is a strong number.
 - [Calculator strong number](https://www.codesansar.com/online-calculator/check-strong-number.htm)
+- [Quick Tutorial](https://youtube.com/shorts/wGbBBO7v_WI?si=lGo6XGbk0GXMJLkU)
 
 25. Perfect number or not
 
