@@ -419,7 +419,48 @@ text.split(",")    // Split on commas
 text.split(" ")    // Split on spaces
 text.split("|")    // Split on pipe
 ```
+- The indexOf() কোন string প্রথম পজিশন দেখায়
+```
+let text = "Please locate where 'locate' occurs!";
+let index = text.indexOf("locate");
+```
+- The lastIndexOf() method  কোন string এর last পজিশন দেখায় যদি একই রকম string অনেকগুলো থাকে
+```
+let text = "Please locate where 'locate' occurs!";
+let index = text.lastIndexOf("locate");
+```
+- The search() method "indexOf" এর মতই কাজ করে কিন্তু indexof এর মত second argunment কে সিলেক্ট করে না
+```
+let text = "Please locate where 'locate' occurs!";
+text.search("locate");
+```
+- The match() method group এ যতগুলো ম্যাচ হবে সবগুলো দেখাবে
+```
+let text = "The rain in SPAIN stays mainly in the plain";
+text.match(/ain/g);
+```
+- The matchAll() method এ যতগুলো ম্যাচ হবে সবগুলো দেখাবে
+```
+let text = "I love cats. Cats are very easy to love. Cats are very popular."
+const iterator = text.matchAll("Cats");
+```
+- matchAll() is an ES2020 feature. , matchAll() does not work in Internet Explorer.
 
+- The includes() method returns true or false. যদি স্টিং এর ভিতরে ওই word থাকে তাহলে true দেখাবে না হলে false দেখাবে
+```
+let text = "Hello world, welcome to the universe.";
+text.includes("world");
+```
+- The startsWith() method returns true যদি স্টিং এর ভিতরে ওই word দিয়ে শুরু হয় তাহলে true দেখাবে না হলে false দেখাবে
+```
+let text = "Hello world, welcome to the universe.";
+text.startsWith("Hello");
+```
+- he endsWith() method returns true যদি স্টিং এর ভিতরে ওই word দিয়ে শেষ হয় তাহলে true দেখাবে না হলে false দেখাবে
+```
+let text = "John Doe";
+text.endsWith("Doe");
+```
 62. Length of the string without using strlen() function
 
 - I use for loop for this program
