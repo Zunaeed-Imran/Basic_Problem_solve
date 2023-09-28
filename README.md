@@ -383,7 +383,36 @@
 
 - JavaScript strings are for storing and manipulating text.
 - The backslash (\) escape character turns special characters into string characters:
-
+- we have add some string document in js file.
+- Substring এ প্রথমে যেখান থেকে শুরু করব এবং দ্বিতীয় মান প্রথম থেকে শুরু করে শেষ যেখানে থামবে str.substring(12, 18)
+- substar প্রথম যেখান থেকে শুরু করব পরের মনটি শেষের মন থেকে শুরু হবে
+- The concat() method can be used instead of the plus operator. These two lines do the same
+```
+text = "Hello" + " " + "World!";
+text = "Hello".concat(" ", "World!");
+```
+- The padStart() method is a string method.
+```
+let numb = 5;
+let text = numb.toString();
+let padded = text.padStart(4,"0");
+```
+- The padEnd() method pads a string from the end.
+```
+let text = "5";
+let padded = text.padEnd(4,"0");
+```
+- The charAt() method returns the character at a specified index (position) in a string:
+- itis work like array position.
+```
+let text = "HELLO WORLD";
+let char = text.charAt(0);
+```
+- ECMAScript 5 (2009) allows property access [ ] on strings:
+```
+let text = "HELLO WORLD";
+let char = text[0];
+```
 62. Length of the string without using strlen() function
 
 - Not done yet
