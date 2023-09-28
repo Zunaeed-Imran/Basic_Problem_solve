@@ -413,9 +413,16 @@ let char = text.charAt(0);
 let text = "HELLO WORLD";
 let char = text[0];
 ```
+- A string can be converted to an array with the split() method:
+```
+text.split(",")    // Split on commas
+text.split(" ")    // Split on spaces
+text.split("|")    // Split on pipe
+```
+
 62. Length of the string without using strlen() function
 
-- Not done yet
+- I use for loop for this program
 
 63. Toggle each character in a string
 
