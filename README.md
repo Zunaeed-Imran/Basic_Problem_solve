@@ -473,6 +473,7 @@ text.endsWith("Doe");
 64. Count the number of vowels
 
 - Not done yet
+- ইউজার ইনপুটে কতটি vowel সংখ্যা দিচ্ছে একটি ইনপুটে সেটি গণনা করা
 
 65. Remove vowels from a string
 
