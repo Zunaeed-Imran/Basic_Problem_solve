@@ -485,7 +485,8 @@ text.endsWith("Doe");
 
 67. Sorting a string in alphabetical order
 
-- Not done yet
+- আমরা প্রথমে ইনপুট value array বানিয়ে নিয়েছি split করে
+- তারপরে আমরা  sort() method এপ্লাই করেছি array এর উপরে|
  
 68. Removing brackets from an algebraic expression
 
