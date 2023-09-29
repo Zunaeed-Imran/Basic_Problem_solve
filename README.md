@@ -467,7 +467,8 @@ text.endsWith("Doe");
 
 63. Toggle each character in a string
 
-- Not done yet
+- This program will ছোট হাতের লেখা বড় এবং বড় হাতের লেখা ছোট করবে
+- I USED CONDATION IF ELSE.
 
 64. Count the number of vowels
 
