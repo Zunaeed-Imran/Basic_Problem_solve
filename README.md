@@ -538,7 +538,9 @@ text.endsWith("Doe");
 
 80. Reverse a string
 
-- Not done yet
+- আমরা প্রথমে ইনপুট value array বানিয়ে নিয়েছি split করে
+- তারপরে আমরা reverse() method এপ্লাই করেছি array এর উপরে|
+- if we don't use () after reverse it will not work, remember that.
 
 81. Check if two strings match where one string contains wildcard characters
 
