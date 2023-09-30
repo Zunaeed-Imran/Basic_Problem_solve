@@ -562,7 +562,12 @@ text.endsWith("Doe");
 
 84. Sum of elements in an array
 
-- Not done yet
+- remember to use ("") in split method in input value. 
+- it won't work without that.
+- we use length property in for-loop
+- The length property returns the length of a string.
+
+
 
 85. Check if two arrays are the same or not
 
