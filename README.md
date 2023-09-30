@@ -567,11 +567,9 @@ text.endsWith("Doe");
 - we use length property in for-loop
 - The length property returns the length of a string.
 
-
-
 85. Check if two arrays are the same or not
 
-- Not done yet
+- only work with string becouse we use string input not number
 
 86. Finding the array type
 
