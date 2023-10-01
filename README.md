@@ -578,6 +578,11 @@ text.endsWith("Doe");
 87. Sum of positive square elements in an array
 
 - Not done yet
+- A perfect square is an element of algebraic structure that is equal to the square of another element.
+- Example: Input:       1 2 3 4 
+          Square:     1 4 9 16 25
+          sum:        1+4+9+16+25 = 55
+- [Sum of positive square elements of array 'web site to understand defination'](https://prepinsta.com/java-program/sum-of-positive-square-elements-of-array-using-java/)
 
 88. Second smallest element in an array
 
