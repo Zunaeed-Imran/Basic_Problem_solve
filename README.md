@@ -586,15 +586,20 @@ text.endsWith("Doe");
 88. Second smallest element in an array
 
 - This program will show second smallest input array element.
+
 - first we take input a value
 - than split it and make it array
 - than sorting the array to take the max or min input value
-- than make it reverse to to take reverse value
 - than take a variable for using in for loop
 - than we run for-loop
 - in for loop we take value for '0' to 'input array reverse value'
+
 - than use tha variable to take the value of last 'i' value
-- tha print the value out side of the for-loop
+- me make another loop becouse we need 2nd smallest one (in one for loop '<' it work like '<=' in array)
+
+- than we use 2nd variable in for-loop for-loop
+
+- than print the value out side of the for-loop
 - it worked becouse we use '<' that's why. 
 - if we use '<=' than it will show the smallest input 
 
