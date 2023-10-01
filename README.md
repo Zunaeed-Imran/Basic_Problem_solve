@@ -589,8 +589,7 @@ text.endsWith("Doe");
 
 89. Sorting the elements of an array
 
-- Not done yet
-- 
+- this program will short the input array array Element
 
 90. Reversing an array
 
