@@ -577,7 +577,6 @@ text.endsWith("Doe");
 
 87. Sum of positive square elements in an array
 
-- Not done yet
 - A perfect square is an element of algebraic structure that is equal to the square of another element.
 - Example: Input:       1 2 3 4 
           Square:     1 4 9 16 25
@@ -591,10 +590,11 @@ text.endsWith("Doe");
 89. Sorting the elements of an array
 
 - Not done yet
+- 
 
 90. Reversing an array
 
-- Not done yet
+- This program will Reversing the input array element.
 
 91. Longest palindrome in an array
 
