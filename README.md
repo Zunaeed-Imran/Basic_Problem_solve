@@ -620,6 +620,7 @@ text.endsWith("Doe");
 92. Count distinct elements of an array
 
 - Not done yet
+- 
 
 93. Non-repeating elements of an array
 
@@ -636,6 +637,7 @@ text.endsWith("Doe");
 96. Minimum scalar product of two vectors
 
 - Not done yet
+- 
 
 97. Maximum scalar product of two vectors
 
@@ -724,6 +726,7 @@ text.endsWith("Doe");
 118. Merge two sorted arrays
 
 - Not done yet
+- This program will sort tow array and than marge them.
 
 119. Longest subarray having an average greater than or equal to k
 
@@ -752,6 +755,8 @@ text.endsWith("Doe");
 124. Matrix operations (Addition, subtraction and multiplication)
 
 - Not done yet
+- [Basic knowlaged of Matrix](https://youtu.be/JMjbPh1Mjn8?si=TP_OKQUnQUTKmRQG)
+- [Matrix adding](https://youtu.be/ZCmVpGv6_1g?si=psTkJ-LPNAyMY4xJ)
 
 125. Transpose of a matrix
 
