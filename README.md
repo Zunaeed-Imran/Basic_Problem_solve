@@ -614,7 +614,8 @@ text.endsWith("Doe");
 
 91. Longest palindrome in an array
 
-- Not done yet
+- This program will show longest Palindrome in array.
+- we only use two input value for input.
 
 92. Count distinct elements of an array
 
