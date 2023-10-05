@@ -342,7 +342,9 @@
 
 - Outer forloop is for row's
 - Inner forloop is for column.
-- [This tutorial will help to think](https://youtu.be/lsOOs5J8ycw?si=fgcHj4PdDgC5m7Cj)
+- [This tutorial will help to think loop](https://youtu.be/lsOOs5J8ycw?si=fgcHj4PdDgC5m7Cj)
+- [This tutorial will help to think array](https://youtu.be/n60Dn0UsbEk?si=WXBUKfELc_KumqGJ)
+- [This tutorial will help to think Recursion](https://youtu.be/M2uO2nMT0Bk?si=bj8VHFojKBXhvrrM)
 
 53. Pyramid pattern using stars
 
