@@ -4,6 +4,9 @@ let str = prompt("Enter vowel or consonent");
 
 let n = 0;
 
+
+
+
 for (let i = 0; i < str.length; i++){
   n += i;
   

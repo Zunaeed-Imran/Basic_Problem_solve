@@ -353,6 +353,8 @@
 53. Pyramid pattern using stars
 
 - Not done yet
+- যদি আমরা 'let' পরিবর্তে 'var' ইউজ করি তাহলে আমরা loop বাইরে থেকে variable কল করতে পারব
+- 
 
 54. Pyramid pattern using numbers
 
@@ -475,6 +477,7 @@ text.endsWith("Doe");
 
 - This program will ছোট হাতের লেখা বড় এবং বড় হাতের লেখা ছোট করবে
 - I USED CONDATION IF ELSE.
+- and built in functoin
 
 64. Count the number of vowels
 
