@@ -3,11 +3,10 @@
 
 for (let i = 0; i < 20; i++){
   document.write("1");
+  // document.write("<br>");
   for (let j = 0; j < 20; j++){
     document.write("2");
-    for (let k = 0; k < 20; k++){
-      document.write("3");
-    }
+    
   }
   document.write("<br>")
 }

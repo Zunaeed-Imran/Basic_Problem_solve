@@ -345,6 +345,10 @@
 - [This tutorial will help to think loop](https://youtu.be/lsOOs5J8ycw?si=fgcHj4PdDgC5m7Cj)
 - [This tutorial will help to think array](https://youtu.be/n60Dn0UsbEk?si=WXBUKfELc_KumqGJ)
 - [This tutorial will help to think Recursion](https://youtu.be/M2uO2nMT0Bk?si=bj8VHFojKBXhvrrM)
+- প্রথমে আমরা row's নিয়েছি দশটি
+- তারপরে row's ভেঙ্গে দিয়েছি
+- তারপরে লাইনে কলাম নিয়েছি 25
+- আউটপুটে স্টার প্রিন্ট করেছি
 
 53. Pyramid pattern using stars
 
