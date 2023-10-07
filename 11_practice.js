@@ -3,7 +3,7 @@
 
 let input = prompt("Enter Alphabet");
 
-for (var i = 0; i <= input.length; i++){
+for (var i = 0; i <= input; i++){
 
 }
 if (input === "a" || input=== "e" || input === "i" || input === "o" || input === "u") {
