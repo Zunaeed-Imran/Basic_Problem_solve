@@ -236,7 +236,6 @@
 
 33. Prime numbers in a given range
 
-- Not Done yet
 - A prime number is a positive integer that is divisible by only 1 and itself.
 - [Understand better](https://youtu.be/YhRtLwZTOIA?si=srfBnGNGOwkaxlv2)
 - Any whole number greater than 1 that is divisible only by 1 and itself, is
@@ -245,6 +244,7 @@
   and 1.
 - A prime number cannot be divided by any other positive integer without leaving
   a remainder, decimal or fraction.
+- i used condation in for loop, for given range prime number.  
 
 34. Armstrong numbers between two intervals
 
