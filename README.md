@@ -20,6 +20,9 @@
 - practice branch practice alphabet with if else or condation.
 
 3. ASCI value see. using switch statement.
+
+- i just use switch statement and give them value.
+
 4. Uppercase, Lowercase or special character.
 
 - will show the input is uppercase or lowercase or special charracter.
@@ -483,6 +486,7 @@ text.endsWith("Doe");
 
 - Not done yet
 - ইউজার ইনপুটে কতটি vowel সংখ্যা দিচ্ছে একটি ইনপুটে সেটি গণনা করা
+- 
 
 65. Remove vowels from a string
 

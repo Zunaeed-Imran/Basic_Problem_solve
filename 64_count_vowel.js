@@ -1,17 +1,34 @@
 // This program will show ইউজার ইনপুটে কতটি vowel সংখ্যা দিচ্ছে একটি.
 
-let str = prompt("Enter vowel or consonent");
 
-let n = 0;
-
+// let n = 0;
 
 
 
-for (let i = 0; i < str.length; i++){
-  n += i;
+
+let input = prompt("Enter Alphabet");
+
+for (var i = 0; i <= input.length; i++){
+
+  if (input === "a" || input=== "e" || input === "i" || input === "o" || input === "u") {
+    document.write(input + " is vowel");
+  }
   
 }
-document.write(n);
+
+
+
+
+
+
+
+
+
+// for (let i = 0; i < str.length; i++){
+//   n += i;
+  
+// }
+// document.write(n);
 
 
 
