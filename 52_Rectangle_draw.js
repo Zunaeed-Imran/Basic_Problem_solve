@@ -2,9 +2,9 @@
 
 
 
-for (let i = 0; i < 10; i++){
+for (let i = 0; i < 10; i++){ // here 10 is outer for loop.
   document.write("<br>");
-  for (let j = 0; j < 25; j++){
+  for (let j = 0; j < 25; j++){ // here 25 is inner for-loop.
     document.write("*");
   }
 }
