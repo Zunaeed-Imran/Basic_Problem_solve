@@ -69,6 +69,7 @@
 - (গসাগু) গরিষ্ঠ সাধারণ গুণনীয়ক
 - গরিষ্ঠ সাধারণ গুণনীয়ক g হল সেই বৃহত্তম সংখ্যা যা a এবং b উভয়কেই নিঃশেষে ভাগ
   করে (কোন অবশিষ্ট থাকে না)।
+- [to understand better](https://youtube.com/shorts/-u-Ft6oSjpY?si=n5nMRHg4eu1uQoNT)  
 - Example: 
    - The factors of 12 are: 1, 2, 3, 4, 6, 12
    - The factors of 40 are: 1, 2, 4, 5, 8, 10, 20, 40  
