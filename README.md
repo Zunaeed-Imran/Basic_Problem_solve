@@ -62,7 +62,7 @@
 
      so, LCM = 2 * 2 * 3 * 10 = 120   
 
-10. GCD of two numbers
+10. GCD of two numbers.
 
 - not done
 - The greatest common divisor
