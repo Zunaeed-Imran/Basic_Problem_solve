@@ -2,7 +2,7 @@
 
 let num = prompt('Enter a number to see palindrome or not');
 let spl = num.split('');
-let rev = spl.reverse('');
+let rev = spl.reverse();
 let join = rev.join('');
 
 document.write(num + '<br>'); // for checking out put
