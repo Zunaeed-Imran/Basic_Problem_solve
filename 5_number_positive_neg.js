@@ -1,3 +1,5 @@
+//  Check the input number is positive negative or zero
+
 let num = prompt("Enter any Number");
 
 if(num === "0"){
