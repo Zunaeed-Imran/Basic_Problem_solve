@@ -1,3 +1,5 @@
+// to check input charecter is small letter or big letter.
+
 let input = prompt("Enter a Alphabet to upperCase");
 
 switch(input){
