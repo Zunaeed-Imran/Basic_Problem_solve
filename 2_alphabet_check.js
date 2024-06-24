@@ -1,3 +1,5 @@
+// Check alphabet for input value.
+
 let alpha = prompt("Enter any Alphabet");  // const won't work in this case.
 
 switch(alpha){
