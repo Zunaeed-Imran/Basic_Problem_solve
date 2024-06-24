@@ -1,3 +1,6 @@
+// check the input character is vowel or consonent
+
+
 let num = prompt("Entera any Alphabet");
 
 switch (num){
