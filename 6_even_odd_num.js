@@ -1,3 +1,5 @@
+// To check input number is even or odd
+
 let num = prompt("Enter Any Number");
 
 if(num%2 === 0){
